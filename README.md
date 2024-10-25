@@ -1,44 +1,98 @@
-# Hi there 👋
+# Le Truong Lam
 
-Here are some ideas to get you started:
+- 👶**Birthday**: 09/06/2002
+- 🏰**Address**: Dan Phuong, Ha Noi, Viet Nam
 
-- 🔭 I’m currently working on Hanoi University Science and Technology
-- 📫 How to reach me: truonglam962002@gmail.com
+## 🙋🏻‍♂️Brief introduction
 
+> Hello, I’m a front-end developer with a deep passion for technology and coding.
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vuejs]
-#### Backend
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+ I always focus on improving and refining my front-end skills, and I’m confident that I can deliver the right solution for your project.
 
+ With a strong work ethic and attention to detail, I’m committed to providing high-quality results that exceed expectations.
 
-#### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySql]
+## 💼Work experience
 
+### Front-end Web Engineer
 
-#### Others
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+**HBLAB JSC**,Vietnam, April 2024 - Now
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-<!--
-Here are some ideas to get you started:
+During the two-month training program, I participated in a specific project that allowed me to develop my skills and professional knowledge. After completing the training program, I became a full-time employee of the company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After the training program, I had the opportunity to participate in real projects, where I could apply the knowledge and skills I had learned.
+
+#### Site renewal of Honda Cars 埼玉北 (6 people, 3 Front-End developers, 1 Tester, 1 Tech Lead, and 1 Project Managers)
+
+I am a front-end developer for the Honda Cars 埼玉北 project, a car showroom system for Honda Cars in 埼玉北.
+
+In this role, I am responsible for designing and implementing the user interface, ensuring a seamless and engaging experience for users. I collaborate with other team members to optimize code quality and implement dynamic features and animations with GSAP and jQuery.
+
+**Technologies used**: PHP, HTML, CSS, Javascript, jQuery, Gsap, Slick slider, ESLint, Prettier.
+
+**🔗Webiste**: [https://www.hondacars-saitamakita.co.jp/](https://www.hondacars-saitamakita.co.jp/)
+
+#### Training Appointment Scheduling Application (2 people: 1 Front-End Developer, 1 Back-End Developer)
+
+This is the project for my internship, focusing on developing an appointment scheduling application for services. The application allows users to easily book appointments for services, manage their time, track their scheduled appointments, make online payments through integration with Stripe, and receive email notifications after successfully booking an appointment. In this project, I am responsible for creating an intuitive user interface as a front-end developer, while the back-end developer handles the server-side functionalities, including data processing and managing the scheduling system.
+
+**Technologies used**: ReactJs,React Hook Form, Shadcn UI, SWR, Vite, React Router, NodeJs, MySQL, MongoDB, Socket IO, Stripe, Mail service
+
+**🔗Github**: [https://github.com/LeTruongLam/AppointmentScheduling.git](https://github.com/LeTruongLam/AppointmentScheduling.git)
+
+### Programming internship
+
+**MISA JSC**,Vietnam, July 2023 - October 2023
+During my internship at MISA JSC, I developed and applied my programming skills in a real-world environment, learning and working with technologies such as Vue, C#, and .NET. This experience has made me more confident as I enter the field of information technology.
+
+## 🔧Skills
+
+### 🔠Programming Languages
+
+Javascript, TypeScript.
+
+I'm quite confident that I can catch up with other languages when needed very quickly.
+
+### 💻Web Front-end Technologies
+
+React, React Hook Form,  TailwindCss, Sass, Axios, Vite, HTML5, CSS3, SEO, Vue, Gsap, Slick slider
+
+(I haven't used Vue for a while)
+
+### 🧮Web Back-end Technologies
+
+- Protocols: REST, HTTP(S)
+- Frameworks/Libraries: Node.js, Express
+
+### 🔨Dev Tools
+
+Git, Postman, React Developer Tool, Github, Gitlab, Figma, VS Code, Bash, MySQL Workbrench, PgAdmin.
+
+## 📚Education
+
+**The School of Information and Communications Technology - Hanoi University of Science and Technology.**
+
+Bachelor of Information Technology, 2020 - 2024
+
+CPA: 3.1/4.0
+
+## 💋Languages
+
+- **Japanese**
+  Read and understand specialized documents.
+
+  Japanese-Language Proficiency Test: N3
+
+- **Vietnamese**
+
+  Native speaker.
+
+## ☎️Contact information
+
+- 📞Phone: 0373358367
+- 📧Email: [truonglam962002@gmail.com](mailto:truonglam962002@gmail.com)
+- 🔗Github: [https://github.com/LeTruongLam](https://github.com/LeTruongLam)
+- 🔗Facebook: [https://www.facebook.com/LeTruongLam](https://www.facebook.com/nhobe.cau.1)
+
+## 🙏🏻Thanks
+
+> Looking forward to hearing from you - Le Truong Lam
