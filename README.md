@@ -48,7 +48,7 @@ During my internship at MISA JSC, I developed and applied my programming skills 
 
 ### 🔠Programming Languages
 
-Javascript, TypeScript.
+**Javascript, TypeScript.**
 
 I'm quite confident that I can catch up with other languages when needed very quickly.
 
@@ -73,14 +73,14 @@ Git, Postman, React Developer Tool, Github, Gitlab, Figma, VS Code, Bash, MySQL 
 
 Bachelor of Information Technology, 2020 - 2024
 
-CPA: 3.1/4.0
+**CPA: 3.1/4.0**
 
 ## 💋Languages
 
 - **Japanese**
   Read and understand specialized documents.
 
-  Japanese-Language Proficiency Test: N3
+  **Japanese-Language Proficiency Test: N3**
 
 - **Vietnamese**
 
