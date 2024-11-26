@@ -14,30 +14,33 @@
 ## 💼Work experience
 
 ### Front-end Web Engineer
+🔢 **SOTATEK VIETNAM TECHNOLOGY JOINT STOCK COMPANY**, Vietnam, December 2024 - Now
 
-**HBLAB JSC**,Vietnam, April 2024 - Now
+Frontend Reactjs Developer
+
+🔢 **HBLAB JSC**,Vietnam, April 2024 - December 2024
 
 During the two-month training program, I participated in a specific project that allowed me to develop my skills and professional knowledge. After completing the training program, I became a full-time employee of the company.
 
 After the training program, I had the opportunity to participate in real projects, where I could apply the knowledge and skills I had learned.
 
-#### Site renewal of Honda Cars 埼玉北 (6 people, 3 Front-End developers, 1 Tester, 1 Tech Lead, and 1 Project Managers)
+- #### Site renewal of Honda Cars 埼玉北 (6 people, 3 Front-End developers, 1 Tester, 1 Tech Lead, and 1 Project Managers)
 
-I am a front-end developer for the Honda Cars 埼玉北 project, a car showroom system for Honda Cars in 埼玉北.
+   I am a front-end developer for the Honda Cars 埼玉北 project, a car showroom system for Honda Cars in 埼玉北.
+   
+   In this role, I am responsible for designing and implementing the user interface, ensuring a seamless and engaging experience for users. I collaborate with other team members to optimize code quality and implement dynamic features and animations with GSAP and jQuery.
+   
+   **Technologies used**: PHP, HTML, CSS, Javascript, jQuery, Gsap, Slick slider, ESLint, Prettier.
+   
+   **🔗Webiste**: [https://www.hondacars-saitamakita.co.jp/](https://www.hondacars-saitamakita.co.jp/)
 
-In this role, I am responsible for designing and implementing the user interface, ensuring a seamless and engaging experience for users. I collaborate with other team members to optimize code quality and implement dynamic features and animations with GSAP and jQuery.
+- #### Training Appointment Scheduling Application (2 people: 1 Front-End Developer, 1 Back-End Developer)
 
-**Technologies used**: PHP, HTML, CSS, Javascript, jQuery, Gsap, Slick slider, ESLint, Prettier.
-
-**🔗Webiste**: [https://www.hondacars-saitamakita.co.jp/](https://www.hondacars-saitamakita.co.jp/)
-
-#### Training Appointment Scheduling Application (2 people: 1 Front-End Developer, 1 Back-End Developer)
-
-This is the project for my internship, focusing on developing an appointment scheduling application for services. The application allows users to easily book appointments for services, manage their time, track their scheduled appointments, make online payments through integration with Stripe, and receive email notifications after successfully booking an appointment. In this project, I am responsible for creating an intuitive user interface as a front-end developer, while the back-end developer handles the server-side functionalities, including data processing and managing the scheduling system.
-
-**Technologies used**: ReactJs,React Hook Form, Shadcn UI, SWR, Vite, React Router, NodeJs, MySQL, MongoDB, Socket IO, Stripe, Mail service
-
-**🔗Github**: [https://github.com/LeTruongLam/AppointmentScheduling.git](https://github.com/LeTruongLam/AppointmentScheduling.git)
+    This is the project for my internship, focusing on developing an appointment scheduling application for services. The application allows users to easily book appointments for services, manage their time, track their scheduled appointments, make online payments through integration with Stripe, and receive email notifications after successfully booking an appointment. In this project, I am responsible for creating an intuitive user interface as a front-end developer, while the back-end developer handles the server-side functionalities, including data processing and managing the scheduling system.
+    
+    **Technologies used**: ReactJs,React Hook Form, Shadcn UI, SWR, Vite, React Router, NodeJs, MySQL, MongoDB, Socket IO, Stripe, Mail service
+    
+    **🔗Github**: [https://github.com/LeTruongLam/AppointmentScheduling.git](https://github.com/LeTruongLam/AppointmentScheduling.git)
 
 ### Programming internship
 
